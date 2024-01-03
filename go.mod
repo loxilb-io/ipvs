@@ -1,4 +1,4 @@
-module github.com/moby/ipvs
+module github.com/loxilb-io/ipvs
 
 go 1.17
 
